@@ -1,0 +1,40 @@
+{
+  "training_summary": {
+    "total_epochs": 170,
+    "total_time": 14252.400760650635,
+    "avg_epoch_time": 83.83765153323903,
+    "peak_memory_usage": 0.7487640380859375,
+    "final_metrics": {
+      "psnr": {
+        "value": 25.7700154876709,
+        "epoch": 143
+      },
+      "ssim": {
+        "value": 0.7180599489808083,
+        "epoch": 143
+      },
+      "lpips": {
+        "value": 0.20868471500463784,
+        "epoch": 132
+      },
+      "pretrain_psnr": {
+        "value": 24.46552990913391,
+        "epoch": 19
+      }
+    }
+  },
+  "performance_analysis": {
+    "psnr_improvement": 7.279692592620851,
+    "convergence_epoch_psnr": 143,
+    "convergence_epoch_ssim": 143,
+    "convergence_epoch_lpips": 132
+  },
+  "training_efficiency": {
+    "pretrain_epochs": 20,
+    "gan_epochs": 150,
+    "time_per_stage": {
+      "pretrain": 1404.8145895004272,
+      "gan": 12847.586171150208
+    }
+  }
+}
