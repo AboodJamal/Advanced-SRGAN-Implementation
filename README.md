@@ -13,7 +13,7 @@
 | Low Resolution          | SRGAN Output              | Real Image               |
 | ----------------------- | ------------------------- | ------------------------ |
 | ![](samples/lowcel.png)   | ![](samples/srgan.png)      | ![](samples/realcel.png)   |
-| ![](samples/zebraLow.png) | ![](samples/zebrasrgan.png) | ![](samples/zebraReal.png) |
+| ![](samples/zebraLow.png) | ![](samples/Zebrasrgan.png) | ![](samples/zebraReal.png) |
 
 ## 🚀 Project Overview
 
